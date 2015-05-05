@@ -55,7 +55,7 @@ This is released under the GPL license so feel free to use!
 
 ## Help and Support
 
-For questions, comments or suggestions, please contact me at: '
+For questions, comments or suggestions, please contact me at:
 
  - honeysilvas@gmail.com.
  - http://www.silverhoneymedia.com
