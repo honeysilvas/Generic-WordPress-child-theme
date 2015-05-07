@@ -25,7 +25,14 @@ You use a child theme when you want to make modifications to your theme so that 
  (Depending on your parent theme, if you have additional css files, you might have to enqueue each additional css file separately.   Please read https://codex.wordpress.org/Child_Themes#How_to_Create_a_Child_Theme to find out how to do that.)
  
  - Upload the files.
-  - Upload the folder to your web server via FTP or command line.  The files should be placed in the WordPress directory under wp-content/themes.
+  - Via the admin dashboard.
+   - Re-zip the folder.
+   - Login to your WordPress admin dashboard.  (Usually, under yourwebsitename.com/wp-admin)
+   - Go to Appearance -> Themes > Add New > Upload Theme, then browse to the re-zipped file.
+   - Activate the child theme.
+  
+  - Via FTP:
+   - Upload the folder to your web server via FTP or command line.  The files should be placed in the WordPress directory under wp-content/themes.
 
  - Activate the child theme.
   - Login to your WordPress admin dashboard.  
@@ -57,6 +64,7 @@ This is released under the GPL license so feel free to use!
 
 For questions, comments or suggestions, please contact me at:
 
- - honeysilvas@gmail.com.
- - http://www.silverhoneymedia.com
+ - http://zenanswer.com
+ - honeysilvas@gmail.com
  - @honeysilvas
+   
