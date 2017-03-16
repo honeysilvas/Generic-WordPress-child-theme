@@ -20,7 +20,7 @@ You use a child theme when you want to make modifications to your theme so that 
   - Unzip the file to your desktop.
  
  - Edit the files.
-  - Open the file style.css in a text editor like Notepad.  Simply replace the word twentyfifteen (beside Template) with the name of your parent theme name.
+  - Open the file "style.css" in a text editor like Notepad.  Simply replace the word twentyfifteen (beside Template) with the name of your parent theme name.
   - Open the file functions.php and replace the word "twentyfifteen" with the name of your parent theme.
  (Depending on your parent theme, if you have additional css files, you might have to enqueue each additional css file separately.   Please read https://codex.wordpress.org/Child_Themes#How_to_Create_a_Child_Theme to find out how to do that.)
  
@@ -39,6 +39,8 @@ You use a child theme when you want to make modifications to your theme so that 
   - Go to Appearance > Themes.
   - Find your child theme.  (If you are using WordPress multisite, you need to go to the network admin dashboard to enable the theme there first.)
   - Click Activate.
+  
+ - If you have any problems with this, please contact me and let me know which theme you are using.
  
 
 ## How to Use
@@ -64,7 +66,7 @@ This is released under the GPL license so feel free to use!
 
 For questions, comments or suggestions, please contact me at:
 
- - http://zenanswer.com
+ - http://silverhoneymedia.com
  - honeysilvas@gmail.com
  - @honeysilvas
  - https://github.com/honeysilvas 
